@@ -157,7 +157,7 @@ We have seen multiple notions of probability so far. One might assign probabilit
 
 Thus, the very definition of probability seems to be wishy-washy and subjective. Thus you might wonder how you might work with such probabilities. For this, we turn to the rules of probability.
 
-The rules dont care where our probabilities come from, as to how we estimated them, as long as they behave in intuitively sensible ways. 
+The rules don't care where our probabilities come from, as to how we estimated them, as long as they behave in intuitively sensible ways.
 
 Consider an example: 
 
@@ -210,7 +210,7 @@ If $X$ and $Y$ are two events and $p(X)$ is the probability of the event $X$ to 
 
 2. $0 ≤ p(X) ≤ 1 \;$ $X$ has probability range from 0 to 1. 
 
-3. $p(X)+p(X^-)=1 \;$ $X$ must either happen or not happen. These last two aximoms can be thought of as saying that the probabilities if all events put tohether must sum to 1.
+3. $p(X)+p(X^-)=1 \;$ $X$ must either happen or not happen. These last two axioms can be thought of as saying that the probabilities if all events put together must sum to 1.
 
 5. $p(X+Y)=p(X)+p(Y)−p(X,Y) \;$ $X$ can happen and $Y$ can happen but we must subtract the cases that are happening together so we do not over-count.
 
